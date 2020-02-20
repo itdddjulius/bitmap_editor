@@ -95,15 +95,15 @@ $ ruby runner.rb
 $ rspec
 ```
 
-[1]: https://gist.github.com/soulnafein/8ee4e60def4e5468df2f
-[2]: https://github.com/tareksamni/bitmap_editor/blob/master/Gemfile
-[3]: https://github.com/tareksamni/bitmap_editor/blob/master/.rspec
-[4]: https://github.com/tareksamni/bitmap_editor/blob/master/.rubocop.yml
-[5]: https://github.com/tareksamni/bitmap_editor/blob/master/Dockerfile
+[1]: https://docs.google.com/document/d/1T3UiCgZNzPPPuXDB_Y_nIgA_-Ym96yeOJbBwb8cnnp4/edit#
+[2]: https://github.com/itdddjulius/bitmap_editor/blob/master/Gemfile
+[3]: https://github.com/itdddjulius/bitmap_editor/blob/master/.rspec
+[4]: https://github.com/itdddjulius/bitmap_editor/blob/master/.rubocop.yml
+[5]: https://github.com/itdddjulius/bitmap_editor/blob/master/Dockerfile
 [6]: https://docs.docker.com/engine/installation/
 [7]: https://rvm.io/
-[8]: https://github.com/tareksamni/bitmap_editor/blob/master/app/bitmap_editor.rb
-[9]: https://github.com/tareksamni/bitmap_editor/blob/master/app/command.rb
-[10]: https://github.com/tareksamni/bitmap_editor/blob/master/app/bitmap.rb 
-[11]: https://github.com/tareksamni/bitmap_editor/blob/master/app/pixel.rb
-[12]: https://github.com/tareksamni/bitmap_editor/tree/master/spec
+[8]: https://github.com/itdddjulius/bitmap_editor/blob/master/app/bitmap_editor.rb
+[9]: https://github.com/itdddjulius/bitmap_editor/blob/master/app/command.rb
+[10]: https://github.com/itdddjulius/bitmap_editor/blob/master/app/bitmap.rb 
+[11]: https://github.com/itdddjulius/bitmap_editor/blob/master/app/pixel.rb
+[12]: https://github.com/itdddjulius/bitmap_editor/tree/master/spec
